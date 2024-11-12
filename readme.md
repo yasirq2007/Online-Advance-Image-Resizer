@@ -19,6 +19,10 @@ An easy-to-use online application for resizing images directly in your browser. 
 4. Click "Resize Image" to view the resized preview.
 5. Download the resized image by clicking the "Download" button.
 
+# Online Advanced Image Resizer
+
+An easy-to-use online application for resizing images directly in your browser. Visit our website at [ResizeHood](https://resizehood.com) for more image resizing tools.
+
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is Open Source and can be used without permission.

@@ -21,7 +21,7 @@ An easy-to-use online application for resizing images directly in your browser. 
 
 # Online Advanced Image Resizer
 
-An easy-to-use online application for resizing images directly in your browser. Visit our website at [ResizeHood](https://resizehood.com) for more image resizing tools.
+An easy-to-use online application for resizing images directly in your browser. Visit our website at [ResizeHood](https://resizehood.com/) for more image resizing tools.
 
 ## License
 

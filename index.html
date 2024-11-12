@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Advanced Image Resizer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Online Advanced Image Resizer</h1>
+        <input type="file" id="upload" accept="image/*">
+        <div class="controls">
+            <label for="width">Width:</label>
+            <input type="number" id="width" placeholder="Width in pixels">
+            
+            <label for="height">Height:</label>
+            <input type="number" id="height" placeholder="Height in pixels">
+            
+            <button onclick="resizeImage()">Resize Image</button>
+            <button id="download" style="display:none">Download Resized Image</button>
+        </div>
+        <canvas id="canvas" style="display: none;"></canvas>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
